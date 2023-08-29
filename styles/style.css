@@ -126,6 +126,28 @@ main {
 
 /* second-section style ends */
 
+/* third-section style starts */
+
+.third-section {
+    display: flex;
+    background: rgba(39, 39, 39, 0.05);
+    justify-content: center;
+    height: 400px;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+
+.third-section-div {
+    width: 800px;
+    height: 200px;
+    padding: 120px 0;
+}
+
+/* third-section style ends */
+
+
 /* fourth-section style starts */
 .hot-deal {
     display: flex;
