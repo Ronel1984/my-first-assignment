@@ -179,3 +179,52 @@ main {
 }
 
 /* fifth-section style ends */
+
+/* sixth section style starts */
+.latest-deal {
+    max-width: 1300px;
+    margin: 50px auto 125px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.latest-deal p {
+    margin: 15px 0 45px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.latest-deal h2 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+input[type="email"] {
+    width: 700px;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    font-size: 16px;
+    color: #272727;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+input[type="submit"] {
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+/* sixth section style ends */
