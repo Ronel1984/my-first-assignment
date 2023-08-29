@@ -228,3 +228,35 @@ form {
 }
 
 /* sixth section style ends */
+
+/* footer style starts */
+footer {
+    padding: 125px 200px;
+    text-align: center;
+    background-color: #111010;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.white {
+    color: #FFF;
+}
+
+.footer-para {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* footer style ends */
